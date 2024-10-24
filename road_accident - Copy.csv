@@ -1,0 +1,5 @@
+Speed_Limit,Num_Lanes,Driver_Alcohol_Level,Weather_Condition,Road_Condition,Accident_Severity
+30,2,0,clear,dry,1
+50,4,0.05,rainy,wet,3
+60,4,0.08,foggy,wet,2
+80,6,0.1,clear,dry,4
